@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Dynamic Workspace Preview
-![Aegis Live Interface Dashboard](<img width="622" height="276" alt="Screenshot 2026-07-04 091625" src="https://github.com/user-attachments/assets/e65c2a2c-3b9f-413f-a441-9b79aed794e7"/>
+<img width="622" height="276" alt="Screenshot 2026-07-04 091625" src="https://github.com/user-attachments/assets/e65c2a2c-3b9f-413f-a441-9b79aed794e7"/>
 <img width="632" height="290" alt="Screenshot 2026-07-04 091257" src="https://github.com/user-attachments/assets/fd0b0cfb-81b3-42b9-8612-15b03cdcdcae" />
 <img width="617" height="280" alt="Screenshot 2026-07-04 091431" src="https://github.com/user-attachments/assets/c1f9b102-94a4-43a9-bd10-750f40850d0a" />
 <img width="623" height="277" alt="Screenshot 2026-07-04 091444" src="https://github.com/user-attachments/assets/edb8485a-5e25-4bd6-b10e-5a4c89f814dd" />
@@ -18,6 +18,7 @@
 This project is an **Enterprise Cyber-Threat Intrusion Analytics Engine** built to act as an automated digital security layer for major tech conglomerates (such as AWS, Microsoft, and Alphabet). 
 
 Modern web application gateways are continuously targeted by sophisticated attacks. This system ingests live network packet streams, processes high-dimensional data metrics, and calculates an AI-powered **Neural Threat Index** to instantly isolate and flag dangerous system breaches before data theft can occur.
+
 
 ### 🔬 Core Security Vulnerabilities Addressed:
 * **Zero-Day Exploits:** Structural variations outside normal system baseline traffic.
