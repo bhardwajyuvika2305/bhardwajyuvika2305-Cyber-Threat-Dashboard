@@ -1,4 +1,4 @@
-# 🛡️ Aegis Security Labs: Neural Intrusion Anomaly Engine
+<img width="622" height="276" alt="Screenshot 2026-07-04 091625" src="https://github.com/user-attachments/assets/e65c2a2c-3b9f-413f-a441-9b79aed794e7" /><img width="622" height="276" alt="Screenshot 2026-07-04 091625" src="https://github.com/user-attachments/assets/32fa30a0-db2f-4e0d-a923-582248ceaa57" /># 🛡️ Aegis Security Labs: Neural Intrusion Anomaly Engine
 > **Enterprise Data Science System Architecture // Real-Time Network Exploit Detection & Risk Simulation Pipeline**
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](YOUR_STREAMLIT_CLOUD_LIVE_LINK_HERE)
@@ -7,7 +7,11 @@
 ---
 
 ## 🌐 Dynamic Workspace Preview
-![Aegis Live Interface Dashboard](assets/dashboard_preview.png)
+![Aegis Live Interface Dashboard](<img width="622" height="276" alt="image" src="https://github.com/user-attachments/assets/64d89b68-4477-4f46-adf9-fa3317ced31e" />
+![Uploading Screenshot 2026-07-04 091625.png…])
+)
+
+)
 
 ---
 
