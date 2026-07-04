@@ -43,9 +43,20 @@ The interactive frontend framework includes a **Dual-Engine Navigation Chassis**
 * **Statistical Exploration Canvas:** Seaborn Retina Subplots, Matplotlib Open-Canvas
 * **Data Synthesis Matrix:** Pandas Dataframes, Vectorized NumPy Arrays
 
+---
+---
+
+## 🚀 Local Installation & Deployment
+
+Follow these quick commands to spin up the high-performance analytics system on your machine:
+
+```bash
+# 1. Clone the security repository asset matrix
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+cd YOUR_REPOSITORY_NAME
 --
 # 2. Install required tech-stack dependencies
 pip install -r requirements.txt
-
+--
 # 3. Initialize the live dashboard server
 streamlit run app.py
